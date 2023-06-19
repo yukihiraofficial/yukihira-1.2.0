@@ -1,0 +1,25 @@
+{
+    "Port": "80",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "autoClean": true,
+    "commandDisabled": [],
+    "eventDisabled": [],
+    "openai": "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",
+    "EMAIL": "yukihira@gmail.com",
+    "PASSWORD": "******",
+    "OTPKEY": "111*2*1*",
+    "BOTNAME": "anjelo",
+    "PREFIX": ".",
+    "ADMINBOT": ["100013718950705",
+    "100080204603951"],
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "logLevel": "error",
+        "pauseLog": true,
+        "selfListen": true,
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Mobile/15E148 Safari/604.1"
+    }
+}
